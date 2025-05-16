@@ -20,6 +20,8 @@ background1 = transform.scale(
     (1000,700)
 )
 
+
+
 class Area():
  #создание прямоугольника   
     def __init__(self, x, y, whide, heidht, color):
